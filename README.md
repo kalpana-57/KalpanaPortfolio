@@ -1,16 +1,84 @@
-# React + Vite
+# ✨ Kalpana Kayala — Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio! This project showcases my skills, projects, and passion for building modern, responsive, and interactive web applications.
 
-Currently, two official plugins are available:
+## 🚀 About the Project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+A modern, animated developer portfolio built to present my technical skills, featured projects, and development journey in one place.
 
-## React Compiler
+## 🛠️ Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React.js
+- Vite
+- JavaScript
+- HTML5
+- CSS3
+- Framer Motion
+- Lucide React
 
-## Expanding the ESLint configuration
+## 🌟 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Modern dark-themed user interface
+- Smooth animations and transitions
+- Responsive design for desktop, tablet, and mobile
+- Interactive project showcase
+- Skills and technology sections
+- Resume access
+- Contact information
+
+## 💻 Featured Projects
+
+### 1. ShopSphere
+A responsive mini e-commerce store.
+
+[GitHub Repository](https://github.com/kalpana-57/ShopSphere) · [Live Demo](https://shopsphere-lilac.vercel.app)
+
+### 2. FinTrack
+A personal finance dashboard built with React and Recharts.
+
+[GitHub Repository](https://github.com/kalpana-57/FinTrack)
+
+### 3. Quiz Battle Arena
+A real-time multiplayer quiz game built using JavaScript, Vite, and Firebase.
+
+[GitHub Repository](https://github.com/kalpana-57/QuizBattleArena) · [Live Demo](https://quiz-battle-arena-eta.vercel.app)
+
+### 4. Multimodal Chest X-ray Analysis
+An AI-based medical imaging project focused on chest X-ray analysis and lung cancer detection.
+
+## ⚙️ Run Locally
+
+Clone the repository:
+
+```bash
+git clone https://github.com/kalpana-57/KalpanaPortfolio.git
+```
+
+Open the project folder:
+
+```bash
+cd KalpanaPortfolio
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+Open the local URL displayed in your terminal.
+
+## 📬 Connect With Me
+
+- **GitHub:** https://github.com/kalpana-57
+- **Email:** kalpanakayala75@gmail.com
+
+---
+
+⭐ Thank you for visiting my portfolio repository!
