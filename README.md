@@ -1,4 +1,7 @@
 # ✨ Kalpana Kayala — Personal Portfolio
+## 🌐 Live Portfolio
+
+[View My Live Portfolio](https://kalpana-portfolio-ewmhxwlz4-kalpana-57-projects.vercel.app)
 
 Welcome to my personal portfolio! This project showcases my skills, projects, and passion for building modern, responsive, and interactive web applications.
 
