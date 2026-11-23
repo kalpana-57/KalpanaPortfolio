@@ -5,6 +5,13 @@ Welcome to my personal portfolio! This project showcases my skills, projects, an
 ## 🚀 About the Project
 
 A modern, animated developer portfolio built to present my technical skills, featured projects, and development journey in one place.
+## 📸 Portfolio Preview
+
+### Desktop View
+![Portfolio Desktop Screenshot](./screenshots/portfolio-desktop.png)
+
+### Mobile View
+![Portfolio Mobile Screenshot](./screenshots/portfolio-mobile.png)
 
 ## 🛠️ Technologies Used
 
